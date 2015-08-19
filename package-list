@@ -1,0 +1,4 @@
+org.uno.IncidenceMgmtSystem.controller
+org.uno.IncidenceMgmtSystem.model
+org.uno.IncidenceMgmtSystem.repository
+org.uno.IncidenceMgmtSystem.service
